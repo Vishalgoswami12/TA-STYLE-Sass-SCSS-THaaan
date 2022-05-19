@@ -1,0 +1,25 @@
+.inline{
+    display: flex;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.position{
+    position: relative;
+}
+.flex-30{
+    flex:0 1 24%;
+}
+.text{
+    text-align: center;
+}
+.general{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.para{
+    color: white;
+    text-align: center;
+}

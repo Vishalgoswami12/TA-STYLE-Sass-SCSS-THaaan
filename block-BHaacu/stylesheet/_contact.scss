@@ -1,0 +1,81 @@
+.con{
+    padding: 80px 0;
+    background-color: #dc3c45;
+}
+.contact-box{
+    background-color: #f8f9fa;
+    padding: 100px;
+    .con-para{
+        color: #7e868d;
+        text-align: center;
+        margin-top: 8px;
+        font-size: 20px;
+    }
+    .circle{
+        height: 100px;
+        width: 100px;
+        background-color: #ebebeb;
+        border-radius: 50%;
+        margin-top: 50px;
+    }
+    .nav{
+        margin-left: 30px;
+        font-size: 41px;
+        margin-top: 31px;
+        color: #dc3c45;
+    }
+    h2{
+        color: black;
+        font-size: 22px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    .add{
+        color: #5d5f64;
+        margin-top: 10px;
+    }
+}
+.know-sec{
+    padding: 100px;
+    h2{
+        text-align: center;
+        font-size: 28px;
+        color: black;
+        font-weight: bold;
+    }
+    p{
+        color: #7e868d;
+        text-align: center;
+        margin-top: 8px;
+        font-size: 20px;
+    }
+    iframe{
+        margin-top: 60px;
+        height: 366px;
+        width: 630px;
+    }
+    form{
+        margin-top: 60px;
+        margin-left: 357px;
+    }
+    input{
+        width: 424px;
+        padding: 12px;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    textarea{
+        padding: 12px;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    button{
+        color: white;
+        border-radius: 22px;
+        background-color: #dc3c45;
+        margin-left: 167px;
+        padding: 18px;
+        margin-top: 51px;
+        border: none;
+    }
+}

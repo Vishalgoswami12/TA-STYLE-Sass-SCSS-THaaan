@@ -1,0 +1,128 @@
+.about{
+    background-color: #dc3c45;
+    padding: 40px;
+    p{
+        margin-top: 10px;
+    }
+}
+.about-sect{
+    padding: 40px ;
+    div{
+        width: 39%;
+    }
+    h3{
+        color: #dc3c45;
+        font-size: 22px;
+    }
+    h2{
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    p{
+        color: #bbbfc3;
+        word-spacing: 1.5;
+        margin-top: 10px;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    img{
+        margin-right: 195px;
+    }
+}
+.content{
+    padding: 40px 60px 30px 40px;
+    padding-bottom: 100px;
+    img{
+        width: 400px;
+        margin-top: 8%;
+    }
+    .inline{
+        margin-top: 40px;
+        margin-left: 116px;
+    }
+    .icon{
+        height: 100px;
+        margin-right: 20px;
+        margin-top: 10px;
+        display: flex;
+        align-items: center;
+    }
+    i{
+        font-size: 50px;
+    }
+    h2{
+        color: #1b1e24;
+        font-size: 31px;
+        margin-top: 15px;
+    }
+    p{
+    color: #6c757d;
+    margin-top: 15px;
+    font-size: 20px;
+    }
+}
+.team-people{
+    padding-top: 100px;
+    padding-left: 60px;
+    padding-right: 146px;
+    padding-bottom: 100px;
+    background-color: #f8f9fa;
+    h2{
+        font-size: 35px;
+        color: black;
+        text-align: center;
+        font-weight: bold;
+    }
+    p{
+        color: black;
+        text-align: center;
+        font-weight: bold;  
+        margin-top: 15px;
+        font-size: 22px;
+    }
+    img{
+        margin-top: 90px;
+    }
+    .name{
+        height: 100px;
+        width: 250px;
+        background-color: white;
+        padding-top:10px;
+    }
+    h3{
+        font-size: 25px;
+        color: black;
+        text-align: center;
+        font-weight: bold;
+    }
+    .designation{
+        color: #e1596f;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+.solution{
+    padding: 100px;
+    h2{
+        text-align: center;
+        font-size: 30px;
+        color: black;
+        font-weight: bold;
+    }
+    p{
+        color: #91989d;
+        margin-top: 15px;
+        text-align: center;
+        font-size: 22px;
+    }
+    button{
+        background-color: #dc3c45;
+        color: white;
+        border-radius: 15px;
+        border: none;
+        padding: 9px;
+        margin-top: 34px;
+    }
+}
