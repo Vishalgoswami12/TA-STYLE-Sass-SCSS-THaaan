@@ -1,0 +1,228 @@
+.contact-font {
+  background-color: #dc3c45;
+  padding: 10px 106px;
+}
+
+.phone-icon {
+  color: white;
+  font-size: 10px;
+}
+.head{
+  background-color: #f2f2f2;
+  padding: 15px 106px;
+  a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: #474747;
+    &:hover{
+      background-color: #dc3c45;
+      color: white;
+      padding: 15px 10px;
+    }
+  }
+  select{
+    border: none;
+    margin-right: 10px;
+    outline: none;
+    &:hover{
+      background-color: #dc3c45;
+      color: white;
+      padding: 15px 10px;
+    }
+  }
+}
+h1{
+  color: #dd4b57;
+  font-size: 22px;
+  font-weight: bold;
+  span{
+    color: #222222;
+  }
+}
+.banner-content{
+  font-size: 40px;
+  color: #1b1e24;
+  font-weight: bold;
+  width: 69%;
+}
+.fixed{
+  position: absolute;
+  top: 203px;
+  left: 100px;
+  button{
+    background-color: #dc3c45;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-top: 15px;
+    padding: 7px;
+  }
+}
+.line{
+  margin-top: 15px;
+  color: #818386;
+}
+.service{
+  padding: 64px 271px;
+  p{
+    color: #b3b8bc;
+    text-align: center;
+    margin-top: 15px;
+  }
+}
+.service-head{
+  font-size: 25px;
+  text-align: center;
+  color: #1b1e24;
+  font-size: bold;
+  }
+  .box-shadow{
+    padding: 30px;
+    box-shadow: 0px 0px 1px 0px black;
+    margin-top: 50px;
+    button{
+      border-radius: 10px;
+      color: #dd4b57;
+      border: 1px solid #dd4b57;
+      padding: 7px;
+      margin-top: 10px;
+    }
+  }
+  .serv-img{
+    display: flex;
+    justify-content: center;
+  }
+.serv-font{
+  color: #8d8f92;
+  margin-top: 8px;
+}
+.serv-font{
+  color: #8d8f92;
+  margin-top: 8px;
+}
+.container{
+  background-color: #f8f9fa;
+  padding: 60px 0;
+  h2{
+    font-size: 25px;
+    color: #1e2127;
+    font-weight: bold;
+  }
+  p{
+    margin-top: 20px;
+    color: #babfc3;
+  }
+  button{
+    border-radius: 10px;
+    color: #dd4b57;
+    border: 1px solid #dd4b57;
+    padding: 7px;
+    margin-top: 50px;
+    background-color: white;
+  }
+  div{
+    width: 60%;
+    margin: 0 auto;
+  }
+}
+.consult-box{
+  padding: 50px 50px;
+  margin-bottom: 100px;
+  div{
+    width: 86%;
+    margin: 0 8%;
+  }
+  h2{
+    font-size: 30px;
+    color: #1b1e24;
+    font-weight: bold;
+    line-height: 1.5;
+  }
+  p{
+    line-height: 1.5;
+    color: #cacdd0;
+  }
+  button{
+    border-radius: 10px;
+    color: #dd4b57;
+    border: 1px solid #dd4b57;
+    padding: 7px;
+    margin-top: 50px;
+    background-color: white;
+  }
+}
+.request-box{
+  background-color: #dc3c45;
+  padding: 40px 100px;
+  p{
+    color: white;
+  }
+  button{
+    border-radius: 10px;
+    color: #dd4b57;
+    border: 1px solid #dd4b57;
+    padding: 7px;
+    background-color: white;
+  }
+}
+.industry-box{
+  padding: 100px 100px;
+  div{
+    width: 40%;
+  }
+  h2{
+    font-size: 25px;
+    font-weight: bold;
+    word-spacing: 5px;
+    line-height: 1.5;
+  }
+  p{
+    color: #cacdd0;
+    margin-top: 30px;
+    font-weight: bold;
+  }
+}
+.client{
+  padding: 50px 100px;
+  background-color: #f8f9fa;
+  img{
+    filter: grayscale(100%);
+  }
+}
+footer{
+  background-color: #343a40;
+  padding: 50px 276px 100px 150px;
+  h4{
+    color: white;
+  }
+  .mt{
+    display: flex;
+    flex-direction: column;
+  }
+  i{
+    color: white;
+    display: block;
+    font-size: 12px;
+    margin-top: 20px;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  li{
+    margin-top: 20px;
+  }
+  ul{
+    display: flex;
+    flex-direction: column;
+  }
+  p{
+    color: white;
+    margin-top: 20px;
+  }
+  .phone-icon{
+    margin-right: 8px;
+  }
+}
+
+/*# sourceMappingURL=home.css.map */
